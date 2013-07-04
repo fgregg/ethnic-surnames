@@ -28,4 +28,4 @@ where
 Previous literature
 http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1534/1828
 http://www.publicprofiler.org/contact.php
-http://www.cs.sunysb.edu/~skiena/lydia/names.pdf with working code http://www.textmap.com/
+http://www.cs.sunysb.edu/~skiena/lydia/names.pdf with working code http://www.textmap.com/ethnicity
