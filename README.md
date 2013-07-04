@@ -24,3 +24,8 @@ where
 
 * Can we get org-chart info added to budget positions? https://data.cityofchicago.org/Administration-Finance/Budget-2012-Budget-Ordinance-Positions-and-Salarie/4n2t-us8h?
 * Can we get race/ethnic estimates for all employees
+
+Previous literature
+http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1534/1828
+http://www.publicprofiler.org/contact.php
+http://www.cs.sunysb.edu/~skiena/lydia/names.pdf with working code http://www.textmap.com/
