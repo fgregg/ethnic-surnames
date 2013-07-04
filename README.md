@@ -22,5 +22,5 @@ where
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=\Pr(\text{Name}&space;\mid&space;\text{Black})&space;=&space;\frac{\Pr(\text{Black}&space;\mid&space;\text{Name})\Pr(\text{Name})}{\Pr(\text{Black})}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Pr(\text{Name}&space;\mid&space;\text{Black})&space;=&space;\frac{\Pr(\text{Black}&space;\mid&space;\text{Name})\Pr(\text{Name})}{\Pr(\text{Black})}" title="\Pr(\text{Name} \mid \text{Black}) = \frac{\Pr(\text{Black} \mid \text{Name})\Pr(\text{Name})}{\Pr(\text{Black})}" /></a>
 
-* Can we get org-chart info added to budget positions?
+* Can we get org-chart info added to budget positions? https://data.cityofchicago.org/Administration-Finance/Budget-2012-Budget-Ordinance-Positions-and-Salarie/4n2t-us8h?
 * Can we get race/ethnic estimates for all employees
