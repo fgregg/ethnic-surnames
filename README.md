@@ -21,3 +21,6 @@ If we assume that the conditional probability of a last name given a race or eth
 where 
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=\Pr(\text{Name}&space;\mid&space;\text{Black})&space;=&space;\frac{\Pr(\text{Black}&space;\mid&space;\text{Name})\Pr(\text{Name})}{\Pr(\text{Black})}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\Pr(\text{Name}&space;\mid&space;\text{Black})&space;=&space;\frac{\Pr(\text{Black}&space;\mid&space;\text{Name})\Pr(\text{Name})}{\Pr(\text{Black})}" title="\Pr(\text{Name} \mid \text{Black}) = \frac{\Pr(\text{Black} \mid \text{Name})\Pr(\text{Name})}{\Pr(\text{Black})}" /></a>
+
+* Can we get org-chart info added to budget positions?
+* Can we get race/ethnic estimates for all employees
