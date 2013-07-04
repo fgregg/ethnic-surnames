@@ -29,3 +29,5 @@ Previous literature
 http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1534/1828
 http://www.publicprofiler.org/contact.php
 http://www.cs.sunysb.edu/~skiena/lydia/names.pdf with working code http://www.textmap.com/ethnicity
+
+http://www.personal.psu.edu/users/p/x/pxt162/papers/treeratpituk-aaai12.pdf
